@@ -25,11 +25,11 @@ User authentication and role-based access
 Responsive web interface
 
 🧰 Technologies Used
-Frontend: HTML, CSS, JavaScript (or framework if applicable)
+Frontend: HTML, CSS, JavaScript (Bootstrap)
 
-Backend: (e.g. PHP, Node.js, Django, etc.)
+Backend: (PHP,Laravel)
 
-Database: (e.g. MySQL, PostgreSQL)
+Database: (MySQL)
 
 Version Control: Git & GitHub
 
@@ -37,6 +37,7 @@ Version Control: Git & GitHub
 Clone the repository
 
 bash
+
 git clone https://github.com/thierrybifou07-eng/academic-residence-management-system_arms_.git
 Install dependencies
 
@@ -44,7 +45,7 @@ Configure environment variables
 
 Run the application locally
 
-(Detailed setup instructions can be added here)
+Use XAMPP Server by preference
 
 📚 Academic Context
 This project was developed as part of a university academic defense. It aims to demonstrate practical skills in web development, system design, and project documentation.
